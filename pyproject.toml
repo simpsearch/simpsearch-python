@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "simpsearch"
+version = "0.1.0"
+description = "Lightweight search and text extraction library"
+authors = [{name="SimpSearch"}]
+dependencies = ["requests"]
