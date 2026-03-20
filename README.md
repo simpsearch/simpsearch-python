@@ -34,7 +34,7 @@ pip install simpsearch
 Or install from source:
 
 ```bash
-git clone https://github.com/yourusername/simpsearch.git
+git clone https://github.com/simpsearch/simpsearch-python.git
 cd simpsearch
 pip install -e .
 ```
